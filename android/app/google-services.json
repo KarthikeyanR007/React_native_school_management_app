@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507773705771",
+    "project_id": "smilemobility-65f16",
+    "storage_bucket": "smilemobility-65f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507773705771:android:4f2b490678307821a5d46e",
+        "android_client_info": {
+          "package_name": "com.smilemobility"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_GhkWyB_hSTBPxW28YzZ-63faa4vzfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

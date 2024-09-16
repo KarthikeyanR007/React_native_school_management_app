@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GreyQo-Regular.ttf",
+      "sha1": "3af4276e9841375c53b32dc83071b790932e6bd1"
+    },
+    {
+      "path": "assets/fonts/Jersey10-Regular.ttf",
+      "sha1": "b58b2e448cec057ac0911e15fe394c6f0b02beac"
+    },
+    {
+      "path": "assets/fonts/Matemasie-Regular.ttf",
+      "sha1": "93e6850e547d573281adc597282b7238321213f5"
+    },
+    {
+      "path": "assets/fonts/NewAmsterdam-Regular.ttf",
+      "sha1": "aa5bd0b8fad20c40385e52641d94f2fd42783d73"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "1e8baa650d943f2b78f1b77dbfe3ba1fb590e21a"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "0ee6b0bd5ff6fe30e4ef720a08e38656dc60985f"
+    }
+  ]
+}
